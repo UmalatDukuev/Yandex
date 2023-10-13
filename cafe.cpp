@@ -9,5 +9,6 @@ int main() {
 		std::cin >> prices[i];
 
 	}
+
 	return 0;
 }
